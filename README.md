@@ -33,5 +33,5 @@ IR(RX)| 接收机辅助 | 用以通过遥控控制继电器切换超声波接收
 
 万本钰（demo演示，文档撰写）
 ## demo展示
-[link](https://note.youdao.com/)
+[https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ](https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ)
 
