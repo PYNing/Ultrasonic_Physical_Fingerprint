@@ -1,7 +1,7 @@
 # 基于超声波物理指纹（声纹）的安全防护装置
 利用超声波探头通频带的差异，设计一套具有移动侦测和抗伪造攻击能力的安全防护装置。本项目曾获电子科技大学2015年“银杏黄”创新创业基金支持，并获优秀结项。
 ## 基本原理
-![image](https://github.com/PYNing/Ultrasonic-Physical-Fingerprint/blob/master/img/Principle.png)
+![image](https://github.com/PYNing/Ultrasonic-Physical-Fingerprint/blob/master/img/Principle2.png)
 ## 硬件结构
 ![image](https://github.com/PYNing/Ultrasonic-Physical-Fingerprint/blob/master/img/Hardwear.png)
 ## 算法逻辑
