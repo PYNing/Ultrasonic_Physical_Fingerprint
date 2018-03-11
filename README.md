@@ -38,9 +38,9 @@ IR(RX)| 接收机辅助 | 用以通过遥控控制继电器切换超声波接收
 万本钰（demo演示，文档撰写）
 ## Demo展示
 ### 演示视频
-![image](https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ](https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ)
+[https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ](https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ)
 
-(https://github.com/PYNing/Ultrasonic_Physical_Fingerprint/blob/master/img/Demo_Review.png)
+![image](https://github.com/PYNing/Ultrasonic_Physical_Fingerprint/blob/master/img/Demo_Review.png)
 
 ### 发射机硬件
 ![image](https://github.com/PYNing/Ultrasonic-Physical-Fingerprint/blob/master/img/Demo.png)
