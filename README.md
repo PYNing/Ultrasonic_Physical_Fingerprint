@@ -15,6 +15,8 @@ TX | 发射机 | 对设计频点波形进行DA转换 | STM32F103ZET6
 RX | 接收机 | AD采样，信号处理与执行核心算法 | STM32F429ZI
 IR(TX)| 发射机辅助| 用以通过遥控控制继电器切换超声波发射探头 | STM32F103ZET6
 IR(RX)| 接收机辅助 | 用以通过遥控控制继电器切换超声波接收探头|STM32F103ZET6
+注：因GitHub上传代码出现问题，暂将代码保存于
+[https://pan.baidu.com/s/1PDO3QTnw1j5BTiNeZnEHIg](https://pan.baidu.com/s/1PDO3QTnw1j5BTiNeZnEHIg)
 ## 项目特色
 1. 于2015年尝试验证了利用超声波探头物理特征差异作为鉴别手段的可行性
 2. 基于超声波的防护手段相对于基于可闻声波、红外线的防护手段具有更高的隐蔽性
