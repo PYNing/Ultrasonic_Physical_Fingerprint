@@ -17,6 +17,7 @@ IR(TX)| 发射机辅助| 用以通过遥控控制继电器切换超声波发射�
 IR(RX)| 接收机辅助 | 用以通过遥控控制继电器切换超声波接收探头|STM32F103ZET6
 
 注：因GitHub上传代码出现异常（Something went wrong and we can't sign you in right now. Please try again later.），暂将代码保存于
+
 [https://pan.baidu.com/s/1PDO3QTnw1j5BTiNeZnEHIg](https://pan.baidu.com/s/1PDO3QTnw1j5BTiNeZnEHIg)
 ## 项目特色
 1. 于2015年尝试验证了利用超声波探头物理特征差异作为鉴别手段的可行性
@@ -36,5 +37,8 @@ IR(RX)| 接收机辅助 | 用以通过遥控控制继电器切换超声波接收
 
 万本钰（demo演示，文档撰写）
 ## Demo展示
+### 演示视频
 [https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ](https://pan.baidu.com/s/1LMDQT-pB9tu_gPPwt5CRXQ)
+### 发射机硬件
+![image](https://github.com/PYNing/Ultrasonic-Physical-Fingerprint/blob/master/img/Demo.png)
 
